@@ -17,6 +17,13 @@ body{
 
 }
 
+.title-banner2 {
+    background-color: #8D8DAA;
+    color: #DFDFDE;
+    
+
+}
+
 .container{
     padding: 15px;
     max-width: 1024px;
@@ -28,6 +35,7 @@ h2{
     font-weight: 500;
     font-size: 2em;
     margin-top: 50px;
+    color: #1B1A17;
  }
 
 p{
